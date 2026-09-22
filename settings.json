@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "MAXO_AST",
+    "username": "NXSL_AST",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "maxo_gng.aternos.me",
+    "ip": "nxsl_gng.aternos.me",
     "port": 31773,
     "version": "1.21.1"
   },
